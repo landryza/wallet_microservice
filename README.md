@@ -104,7 +104,7 @@ print("Balance:", data["balance"])
 
 ---
 
-## UML Sequence Diagram
+# UML Sequence Diagram
 
 Main Program        Wallet Microservice        Database
      |                      |                     |
